@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/bin/Debug/net6.0/Example_001_hello_world
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/bin/Debug/net6.0/Example_001_hello_world.deps.json
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/bin/Debug/net6.0/Example_001_hello_world.runtimeconfig.json
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/bin/Debug/net6.0/Example_001_hello_world.dll
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/bin/Debug/net6.0/Example_001_hello_world.pdb
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.AssemblyInfo.cs
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.dll
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/refint/Example_001_hello_world.dll
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.pdb
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/Example_001_hello_world.genruntimeconfig.cache
+/Users/macbook/Desktop/для учебы/с#/Examples/Example_001_hello_world/obj/Debug/net6.0/ref/Example_001_hello_world.dll
